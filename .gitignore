@@ -71,7 +71,7 @@ crashlytics-build.properties
 *.hdr
 *.jpg
 *.mp3
-*.asset
+
 *.exr
 *.otf
 
