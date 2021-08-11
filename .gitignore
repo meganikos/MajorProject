@@ -74,7 +74,7 @@ crashlytics-build.properties
 *.asset
 *.exr
 *.otf
-*.cs
+
 *.shader
 *.spm
 *.psd
