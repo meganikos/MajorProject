@@ -67,7 +67,7 @@ crashlytics-build.properties
 *.png
 *.wav
 *.fbx
-*.unity
+
 *.hdr
 *.jpg
 *.mp3
